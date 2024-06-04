@@ -1,4 +1,4 @@
-# morse_code_decoder_and-encoder
+# morse_code_decoder_and_encoder
 
 You have to just run the `main.py` file and enter the input that you want to encryot.
 
